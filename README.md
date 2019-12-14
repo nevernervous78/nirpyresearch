@@ -23,7 +23,7 @@ This dataset is used in the following posts:
 
 ### plums.csv
 Used in the following post:
-[Detecting outliers using the Mahalanobis distance with PCA in Python](https://nirpyresearch.com/detecting-outliers-using-mahalanobis-distance-pca-python/)
+* [Detecting outliers using the Mahalanobis distance with PCA in Python](https://nirpyresearch.com/detecting-outliers-using-mahalanobis-distance-pca-python/)
 
 ## Snippets
 Whatever piece of code that will not make it in the last versions of the posts will be hopefully posted here.
