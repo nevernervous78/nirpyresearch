@@ -1,5 +1,5 @@
 # Nirpy Research
-Snippets and data from the blog of Nirpy Research.
+Snippets and data from the blog of [Nirpy Research](https://nirpyresearch.com/).
 
 ## Data
 Thsi folder contains the original datasets used in some of the posts. 
