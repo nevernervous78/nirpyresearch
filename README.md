@@ -20,6 +20,8 @@ This dataset is used in the following posts:
 * [Two Scatter Correction Techniques for NIR Spectroscopy in Python](https://nirpyresearch.com/two-scatter-correction-techniques-nir-spectroscopy-python/)
 * [Exporting NIR Regression Models Built in Python](https://nirpyresearch.com/exporting-nir-regression-models-built-in-python/)
 * [Principal Component Regression in Python Revisited](https://nirpyresearch.com/principal-component-regression-python-revisited/)
+* [Principal Component Selection with a Greedy Algorithm](https://nirpyresearch.com/principal-component-selection-greedy-algorithm/)
+* [Principal Component Selection with Simulated Annealing](https://nirpyresearch.com/principal-component-selection-with-simulated-annealing/)
 
 ### plums.csv
 Used in the following post:
