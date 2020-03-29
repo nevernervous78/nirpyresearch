@@ -11,6 +11,7 @@ This dataset is used in the following post:
 ### milk-powder.csv 
 Used in the following post:
 * [Classification of NIR Spectra by Linear Discriminant Analysis in Python](https://nirpyresearch.com/classification-nir-spectra-linear-discriminant-analysis-python/)
+* [PLS Discriminant Analysis for binary classification in Python](https://nirpyresearch.com/pls-discriminant-analysis-binary-classification-python/)
 
 ### peach_spectra+brixvalues.csv
 This dataset is used in the following posts:
