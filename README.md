@@ -29,4 +29,6 @@ Used in the following posts:
 * [Detecting outliers using the Mahalanobis distance with PCA in Python](https://nirpyresearch.com/detecting-outliers-using-mahalanobis-distance-pca-python/)
 
 ## Snippets
-Whatever piece of code that will not make it in the last versions of the posts will be hopefully posted here.
+Whatever piece of code that can be of general use or will not make it in the last versions of the posts will be (in time) posted here.
+
+* bootsrap.py - Splitter that implements the Bootstrap cross-validation method. This is not currently available in scikit-learn. This class is consistent with scikit-learn usage in a limited case. For more info on how to use this class, read our tutorial [K-fold and Montecarlo cross-validation vs Bootstrap: a primer](https://nirpyresearch.com/kfold-montecarlo-cross-validation-bootstrap-primer/).
