@@ -31,4 +31,4 @@ Used in the following posts:
 ## Snippets
 Whatever piece of code that can be of general use or will not make it in the last versions of the posts will be (in time) posted here.
 
-* [bootsrap.py](https://github.com/nevernervous78/nirpyresearch/blob/master/snippets/bootstrap.py) - Splitter that implements the Bootstrap cross-validation method. This is not currently available in scikit-learn. This class is consistent with scikit-learn usage in a limited case. For more info on how to use this class, read our tutorial [K-fold and Montecarlo cross-validation vs Bootstrap: a primer](https://nirpyresearch.com/kfold-montecarlo-cross-validation-bootstrap-primer/).
+* [bootstrap.py](https://github.com/nevernervous78/nirpyresearch/blob/master/snippets/bootstrap.py) - Data splitter implementing the Bootstrap cross-validation method. This is not currently available in scikit-learn. This class is consistent with scikit-learn usage in a limited case. For more info on how to use this class, read our tutorial [K-fold and Montecarlo cross-validation vs Bootstrap: a primer](https://nirpyresearch.com/kfold-montecarlo-cross-validation-bootstrap-primer/).
