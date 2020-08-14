@@ -2,7 +2,7 @@
 Snippets and data from the blog of [Nirpy Research](https://nirpyresearch.com/).
 
 ## Data
-Thsi folder contains the original datasets used in some of the posts. 
+This folder contains the original datasets used in some of the posts. 
 
 ### milk.csv
 This dataset is used in the following posts:
