@@ -23,6 +23,8 @@ This dataset is used in the following posts:
 * [Principal Component Regression in Python Revisited](https://nirpyresearch.com/principal-component-regression-python-revisited/)
 * [Principal Component Selection with a Greedy Algorithm](https://nirpyresearch.com/principal-component-selection-greedy-algorithm/)
 * [Principal Component Selection with Simulated Annealing](https://nirpyresearch.com/principal-component-selection-with-simulated-annealing/)
+* [Minimal prediction models for linear regression](https://nirpyresearch.com/minimal-prediction-models-linear-regression/)
+* [The Akaike Information Criterion for model selection](https://nirpyresearch.com/akaike-information-criterion-for-model-selection/)
 
 ### plums.csv
 Used in the following posts:
