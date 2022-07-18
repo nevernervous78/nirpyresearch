@@ -31,6 +31,10 @@ Used in the following posts:
 * [Detecting outliers using the Mahalanobis distance with PCA in Python](https://nirpyresearch.com/detecting-outliers-using-mahalanobis-distance-pca-python/)
 * [PCA and kernel PCA explained](https://nirpyresearch.com/pca-kernel-pca-explained/)
 
+### Honey2021.csv
+Used in the following posts:
+* [Aquagrams with Python and Matplotlib](https://nirpyresearch.com/aquagrams-python-matplotlib/)
+
 ## Snippets
 Whatever piece of code that can be of general use or will not make it in the last versions of the posts will be (in time) posted here.
 
