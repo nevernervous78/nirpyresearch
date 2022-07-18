@@ -25,6 +25,7 @@ This dataset is used in the following posts:
 * [Principal Component Selection with Simulated Annealing](https://nirpyresearch.com/principal-component-selection-with-simulated-annealing/)
 * [Minimal prediction models for linear regression](https://nirpyresearch.com/minimal-prediction-models-linear-regression/)
 * [The Akaike Information Criterion for model selection](https://nirpyresearch.com/akaike-information-criterion-for-model-selection/)
+* [Parallel computation of loops for cross-validation analysis](https://nirpyresearch.com/parallel-computation-cross-validation/)
 
 ### plums.csv
 Used in the following posts:
