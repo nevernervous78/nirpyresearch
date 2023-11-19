@@ -40,6 +40,10 @@ Used in the following posts:
 Used in the following posts:
 * [Multivariate curve resolution: an introduction](https://nirpyresearch.com/multivariate-curve-resolution-introduction/)
 
+### ABS_plastic.csv
+Used in the following posts:
+* [Optimal spectra smoothing with Fourier ring correlation](https://nirpyresearch.com/optimal-spectra-smoothing-fourier-ring-correlation/)
+  
 ## Snippets
 Whatever piece of code that can be of general use or will not make it in the last versions of the posts will be (in time) posted here.
 
