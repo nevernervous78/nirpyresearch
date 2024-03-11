@@ -43,7 +43,10 @@ Used in the following posts:
 ### ABS_plastic.csv
 Used in the following posts:
 * [Optimal spectra smoothing with Fourier ring correlation](https://nirpyresearch.com/optimal-spectra-smoothing-fourier-ring-correlation/)
-  
+
+### Incombustible Material NIR.csv
+Kindly provided by S. D'Hyon. About 60 samples with varying "incombustible content". Mix is coal and calcium carbonate. The data is raw and unmodified using a ChemWiz-ADK NIR spectrometer. 
+
 ## Snippets
 Whatever piece of code that can be of general use or will not make it in the last versions of the posts will be (in time) posted here.
 
