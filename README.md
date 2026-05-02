@@ -46,7 +46,9 @@ Used in the following posts:
 
 ### Incombustible Material NIR.csv
 Kindly provided by S. D'Hyon. About 60 samples with varying "incombustible content". Mix is coal and calcium carbonate. The data is raw and unmodified using a ChemWiz-ADK NIR spectrometer. 
-
+Used in the following posts:
+* [The SPXY algorithm](https://nirpyresearch.com/spxy-algorithm/)
+* 
 ## Snippets
 Whatever piece of code that can be of general use or will not make it in the last versions of the posts will be (in time) posted here.
 
